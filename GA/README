@@ -1,0 +1,10 @@
+
+The Following comments are written by shiqiang (lishiqiang#ict.ac.cn)
+
+--------------2015.6.28 Night----------------------
+The initial version was implemented by internet user (http://blog.csdn.net/emiyasstar__/article/details/6938608), and I just format the code at first step. This version uses just a float number encode.
+Next, I will develop the GA to support many other encode/ decode algorithm, and support other selection/ Mutation operator.
+In the future, more examples that using GA will be implemented.
+Specially, Variable-length Chromosomes for Encoding should be supported.
+
+
