@@ -21,6 +21,5 @@ int main() {
 	genEngine.OnStartGenAlg();
 	
 	getchar();
-
 	return 0;
 }
